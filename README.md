@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varunsharmablog
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
-- 📫 How to reach me: E-mail - varunsharmawork427@gmail.com
+- 📫 For business related queries, e-mail me at - varunsharmawork427@gmail.com
 
 <!---
 varunsharmablog/varunsharmablog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
