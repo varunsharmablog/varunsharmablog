@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunsharmablog
+- 👋 Hi, I’m @varunsharmacodes
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
 - 📫 For business related queries, e-mail me at - varunsharmawork427@gmail.com
